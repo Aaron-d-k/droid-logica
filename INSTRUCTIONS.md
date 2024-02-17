@@ -4,7 +4,7 @@ Address 0 is inaccessable. Execution starts by running the instruction at addres
 
 ## Instruction Format
 
-Each instruction consists of the following numbers in memory in this orer:  (the last three parts are optional)
+Each instruction consists of the following numbers in memory in this order:  (the last three parts are optional)
 
 `<next-instruction> <opcode> [output] [input1] [input2]`
 
@@ -16,7 +16,7 @@ This basically tells the processor which instruction to execute next. It points 
 This part is also what allows it to support variable length instruction without any extra complications.
 ### Opcode
 
-Here is the list of currently supported opcode:
+Here is a list of currently supported opcodes:
 
 opcode | name  | inputs unused          | description | 
 |---|---|---|---|
