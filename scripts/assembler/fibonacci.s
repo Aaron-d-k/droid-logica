@@ -1,8 +1,9 @@
 /* 
-this calculates and displays fibbonacci numbers
 
-notice the use of the split instruction to write some value into 
-some instruction's input and its succeeding instruction's input.
+This calculates and displays Fibonacci numbers
+
+Notice the use of the split instruction to write a value into 
+some instructions' input and its succeeding instructions' input.
 
 */
 

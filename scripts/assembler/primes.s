@@ -1,10 +1,8 @@
 /*
 
-This is a program to display prime numbers
-
-it proceeds by the naive algorithm
-
-most of the code is just to implement modulo using bitwise ops
+This is a program to display prime numbers.
+It proceeds by the naive algorithm.
+Most of the code here is used to find modulo using bitwise operations
 
 */
 
