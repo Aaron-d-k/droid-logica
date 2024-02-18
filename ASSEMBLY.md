@@ -37,7 +37,7 @@ The output is separated from the inputs by a `->`. It refers to some label, whic
 
 This code adds 3 and 4 and displays the result:
 ```
-add _=3 _=4 -> to_display;
+add _=3 _=4 -> &to_display;
 display to_display;
 ```
 
